@@ -22,7 +22,7 @@
     // import Moment from 'moment';
     // без флага esModuleInterop результат undefined
     // console.log(Moment);
-    // c флагом результат [object Object]
+    // translation.json флагом результат [object Object]
     // console.log(Moment);
     "esModuleInterop": true,
     // Если какая-либо библиотека не имеет default import,
