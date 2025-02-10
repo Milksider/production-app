@@ -5,3 +5,11 @@ declare module '*.scss' {
     const classNames: IClassNames;
     export = classNames;
 }
+
+declare module "*.svg" {
+    import React from "react";
+    const content: React.VFC<React.SVGProps<SVGSVGElement>>;
+    export default content;
+}
+declare module "*.png" {}
+declare module "*.jpeg" {}
