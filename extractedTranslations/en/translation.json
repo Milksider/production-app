@@ -1,5 +1,8 @@
 {
   "language": "language",
   "notFoundPageTitle": "notFoundPageTitle",
-  "title": "title"
+  "pageErrorButton": "pageErrorButton",
+  "pageErrorTitle": "pageErrorTitle",
+  "title": "title",
+  "Выбросить ошибку": "Выбросить ошибку"
 }
