@@ -20,7 +20,11 @@ describe('classNames', () => {
 
     test('with different mods', () => {
         const expected = 'firstClass thirdClass';
-        expect(classNames('firstClass', { secondClass: false, thirdClass: true, fourthClass: undefined }, []))
+        expect(classNames(
+            'firstClass',
+            { secondClass: false, thirdClass: true, fourthClass: undefined },
+            [],
+        ))
             .toBe(expected);
     });
 });
