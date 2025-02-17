@@ -1,9 +1,12 @@
 {
   "Translate": "Translate",
-  "language": "English",
   "notFoundPageTitle": "Page not found",
   "pageErrorTitle": "Произошла непредвиденная ошибка",
   "pageErrorButton": "Перезагрузить страницу",
   "Выбросить ошибку": "Выбросить ошибку",
-  "Сайдбар": "Сайдбар"
+  "Сайдбар": "Сайдбар",
+  "Короткий язык": "En",
+  "Язык": "English",
+  "О сайте": "About us",
+  "Главная": "Main"
 }

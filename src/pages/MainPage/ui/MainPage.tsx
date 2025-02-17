@@ -2,11 +2,11 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 
 const MainPage = () => {
-    const { t } = useTranslation('mainPage');
+    const { t } = useTranslation();
 
     return (
         <div>
-            {t('title')}
+            {t('Главная')}
         </div>
     );
 };
