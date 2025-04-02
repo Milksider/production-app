@@ -11,5 +11,7 @@
   "Главная": "Main",
   "Войти": "Войти",
   "Increment": "Increment",
-  "Decrement": "Decrement"
+  "Decrement": "Decrement",
+  "Введите логин": "Введите логин",
+  "Введите пароль": "Введите пароль"
 }
