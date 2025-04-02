@@ -1,4 +1,6 @@
 {
+  "Decrement": "Decrement",
+  "Increment": "Increment",
   "language": "language",
   "notFoundPageTitle": "notFoundPageTitle",
   "pageErrorButton": "pageErrorButton",
@@ -8,7 +10,5 @@
   "Выбросить ошибку": "Выбросить ошибку",
   "Главная": "Главная",
   "О сайте": "О сайте",
-  "Сайдбар": "Сайдбар",
-  "Increment": "Increment",
-  "Decrement": "Decrement"
+  "Сайдбар": "Сайдбар"
 }
